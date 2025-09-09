@@ -36,4 +36,4 @@ We welcome contributions from the community. Please refer to the `CONTRIBUTING.m
 
 ## License
 
-This project is licensed under a custom license. Please see the `LICENSE.md` file for more information.
+This project is licensed under a MIT license. Please see the `LICENSE.md` file for more information.
